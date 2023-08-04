@@ -14,3 +14,9 @@ Task management application using the MERN stack (MongoDB, Express.js, React.js,
 - Provide functionality to update the status of a task (e.g., mark as completed).
 - Allow users to delete tasks.
 - Implement basic styling and layout using CSS.
+
+
+
+
+https://github.com/madhumedisetty/Task_Managing_App_Using_MERN/assets/108189103/8c6e8cba-1a03-41d8-b872-52d01edcccdf
+
